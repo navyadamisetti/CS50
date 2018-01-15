@@ -6,4 +6,4 @@ Step by step Instructions to solve a problem. The Instructions should be precise
 ## Pseudocode
 Pseudocode is a detailed yet readable description of an algorithm.
 ## Scratch 2
-We can learn and customise to code. Here you can create your own interactive stories, games, and animations.
+Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
